@@ -1,0 +1,24 @@
+Server running at http://127.0.0.1:1337/
+Listening on 5000
+connected
+results: ["Port 2 is 1/HIGH/True - LED OFF"]
+results: ["Port 2 is 0/LOW/False - LED ON"]
+results: ["Port 2 is 1/HIGH/True - LED OFF"]
+connected
+results: ["Port 2 is 0/LOW/False - LED ON"]
+results: ["Port 2 is 1/HIGH/True - LED OFF"]
+results: ["Port 2 is 0/LOW/False - LED ON"]
+results: ["Port 2 is 1/HIGH/True - LED OFF"]
+results: ["Port 2 is 0/LOW/False - LED ON"]
+results: ["Port 2 is 1/HIGH/True - LED OFF"]
+results: ["Port 2 is 0/LOW/False - LED ON"]
+results: ["Port 2 is 1/HIGH/True - LED OFF"]
+results: ["Port 2 is 0/LOW/False - LED ON"]
+results: ["Port 2 is 1/HIGH/True - LED OFF"]
+results: ["Port 2 is 0/LOW/False - LED ON"]
+results: ["Port 2 is 1/HIGH/True - LED OFF"]
+results: ["Port 2 is 0/LOW/False - LED ON"]
+results: ["Port 2 is 1/HIGH/True - LED OFF"]
+results: ["Port 2 is 0/LOW/False - LED ON"]
+results: ["Port 2 is 1/HIGH/True - LED OFF"]
+results: ["Port 2 is 0/LOW/False - LED ON"]
